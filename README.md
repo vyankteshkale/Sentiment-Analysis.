@@ -1,6 +1,6 @@
 # Sentiment-Analysis.
 
-Subtheme Sentiment Analysis Task
+Subtheme sentiment analysis task : 
 
 Take the following example:
 
